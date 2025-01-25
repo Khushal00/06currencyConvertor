@@ -1,2 +1,2 @@
-import InputBox from "./inputBox";
-export { default as InputBox } from './inputBox';
+import InputBox from "./InputBoxnputBox";
+export { default as InputBox } from './InputBox';

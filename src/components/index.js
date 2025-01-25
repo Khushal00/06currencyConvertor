@@ -1,2 +1,2 @@
 import InputBox from "./inputBox";
-export { default as InputBox } from './InputBox';
+export { default as InputBox } from './inputBox';
